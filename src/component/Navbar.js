@@ -6,8 +6,7 @@ import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import { NavLink } from "react-router-dom";
 import Avatar from "@mui/material/Avatar";
-import Stack from "@mui/material/Stack";
-import { deepOrange, green } from "@mui/material/colors";
+import { deepOrange } from "@mui/material/colors";
 import AssignmentIcon from "@mui/icons-material/Assignment";
 
 export default function Navbar() {
